@@ -298,7 +298,7 @@ public class AlgoDantzig {
 	//Methode qui permet de metre a jour l'equation z
 	public static void maj_z(int rang_ve)
 	{
-    double zf=z+echange[5]*coef[rang_ve];
+    double zf=z+echange[nbxp+nbxe]*coef[rang_ve];
     z=zf;
     System.out.println("z = "+zf);		
 	}
