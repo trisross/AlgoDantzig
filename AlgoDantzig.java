@@ -1,4 +1,4 @@
-public class da {
+public class AlgoDantzig {
 	
 	//DECLARATION DES VARIABLES---------------------------------------------------------------------------- 
     public static int nbxp =2; // Nombre de variables principales à entrer manuellement
