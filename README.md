@@ -27,6 +27,7 @@ define you're constraints like the following exemple :
 you can also set  the coef  here 
 
 ```
+
 public static void coefs() {
 
 		coef[0]=1000;
@@ -34,9 +35,10 @@ public static void coefs() {
 		coef[2]=0;
 		coef[3]=0;
 		coef[4]=0;
-	}
+}
 
-	```
+```
+
 # Test without Java env #
 
 you can copy/paste this code on [this](https://www.compilejava.net/) website and run compilation. 
